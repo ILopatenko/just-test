@@ -5,7 +5,8 @@
    "scripts": {
       "formPageHead": "npx playwright test form-page-new-style.spec.ts --headed",
       "formPageHeadless": "npx playwright test form-page-new-style.spec.ts",
-      "home-work1": "npx playwright test home-work-1.spec.ts --headed"
+      "home-work1": "npx playwright test home-work-1.spec.ts --headed",
+      "home-work2": "npx playwright test home-work-2.spec.ts --headed"
    },
    "repository": {
       "type": "git",

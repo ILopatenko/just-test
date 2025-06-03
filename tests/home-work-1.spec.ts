@@ -1,5 +1,5 @@
-import { chromium, expect, test as it } from 'playwright/test';
- import path from 'path';
+import { expect, test as it } from 'playwright/test';
+import path from 'path';
 
 it.describe('form page test suite', () => {
    it('fill all the text fileds for this form', async ({page}) => {
